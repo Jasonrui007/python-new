@@ -1,0 +1,12 @@
+name = 'Crossin'
+print(name)
+
+name2 = 'jobs'
+print(name2)
+
+num = 1.5*3
+num = num +1
+print(num)
+
+num = 5 <3
+print(num)
